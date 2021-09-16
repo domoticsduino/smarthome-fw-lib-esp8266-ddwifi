@@ -1,2 +1,2 @@
-# smarthome-fw-lib-esp8266-ddwifi
+# Smarthome firmware library for ESP8266 - Wifi
 Library with wifi functions for all projects based on ESP8266
